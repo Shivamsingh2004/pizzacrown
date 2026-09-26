@@ -4,7 +4,7 @@ import PizzaIllustration from "../shared/PizzaIllustration";
 
 export default function About() {
   return (
-    <section id="about" className="py-24 md:py-32 bg-surface/30 border-y border-white/5">
+    <section id="about" className="scroll-mt-24 py-24 md:py-32 bg-surface/30 border-y border-white/5">
       <div className="container-max section-x grid gap-12 lg:grid-cols-[0.9fr,1.1fr] lg:items-center">
         <motion.div
           initial={{ opacity: 0, scale: 0.92 }}

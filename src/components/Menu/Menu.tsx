@@ -12,7 +12,7 @@ export default function Menu() {
   );
 
   return (
-    <section id="menu" className="py-24 md:py-32">
+    <section id="menu" className="scroll-mt-24 py-24 md:py-32">
       <div className="container-max section-x">
         <div className="max-w-2xl">
           <p className="font-display text-sm tracking-[0.4em] text-gold-light">
@@ -25,6 +25,9 @@ export default function Menu() {
             Every pizza is 100% pure vegetarian, made fresh to order with
             generous toppings. Pick a category, choose your size, and order
             straight to WhatsApp.
+          </p>
+          <p className="mt-3 text-xs uppercase tracking-wide text-ink-muted/80">
+            Sizes: S / R = Regular &nbsp;·&nbsp; M = Medium &nbsp;·&nbsp; L = Large
           </p>
         </div>
 
