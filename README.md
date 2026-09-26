@@ -45,6 +45,17 @@ This is a standard static Vite app — no backend is required.
 
 No environment variables or serverless functions are required.
 
+## Photography
+
+Menu, hero and about-section photos are real, unbranded vegetarian pizza
+photography sourced under the free-to-use Unsplash License (commercial use
+allowed, no attribution required), mapped by topping "tone" in
+`src/data/images.ts`. No competitor branding (Domino's, Pizza Hut, etc.) is
+used anywhere — that would be another brand's copyrighted, trademarked
+imagery. Swap any URL in that file for your own restaurant's photos whenever
+you have them; each `<img>` already has descriptive alt text and lazy
+loading.
+
 ## Editing the menu
 
 All menu content lives in one place: `src/data/menu.ts`. Every category and
