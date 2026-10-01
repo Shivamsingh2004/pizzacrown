@@ -1,0 +1,51 @@
+onion  ->  Onion
+tomato  ->  Tomato
+capsicum  ->  Capsicum
+sweet-corn  ->  Sweet Corn
+lovers-bite  ->  Lovers Bite
+spring-fling  ->  Spring Fling
+country-side  ->  Country Side
+garden-delight  ->  Garden Delight
+onion-capsicum  ->  Onion Capsicum
+sweet-corn-tomato  ->  Sweet Corn Tomato
+jalapenos-olive  ->  Jalapenos Olive
+three-topping-pizza  ->  Three Topping Pizza
+veg-loaded-pizza  ->  Veg Loaded Pizza
+cheese-pizza  ->  Cheese Pizza
+paneer-pizza  ->  Paneer Pizza
+cheese-paneer-pizza  ->  Cheese Paneer Pizza
+sweet-corn-delight  ->  Sweet Corn Delight
+onion-twist  ->  Onion Twist
+makhani-do-pyaza  ->  Makhani Do Pyaza
+garden-special  ->  Garden Special
+burn-to-hell  ->  Burn To Hell
+dip-farm-villa  ->  Dip Farm Villa
+paneer-tikka-butter-masala  ->  Paneer Tikka Butter Masala
+paneer-65  ->  Paneer 65
+sweet-heat  ->  Sweet Heat
+plaza-spc-paneer  ->  Plaza S.P.C Paneer
+cheese-lover-pizza  ->  Cheese Lover Pizza
+garlic-to-pizza  ->  Garlic To Pizza
+veg-toast-sandwich  ->  Veg Toast Sandwich
+veg-cheese-sandwich  ->  Veg Cheese Sandwich
+veg-loaded-sandwich  ->  Veg Loaded Sandwich
+veg-paneer-sandwich  ->  Veg Paneer Sandwich
+veg-toast-burger  ->  Veg Toast Burger
+veg-cheese-burger  ->  Veg Cheese Burger
+veg-tikki-burger  ->  Veg Tikki Burger
+veg-loaded-burger  ->  Veg Loaded Burger
+special-cheese-tikki-burger  ->  Special Cheese + Tikki Burger
+veg-paneer-burger-with-cutlet  ->  Veg Paneer Burger With Cutlet
+chilli-potatoes  ->  Chilli Potatoes
+chowmein  ->  Chowmein
+paneer-chowmein  ->  Paneer Chowmein
+choco-lava-cake  ->  Choco Lava Cake
+cold-coffee  ->  Cold Coffee
+cold-boost  ->  Cold Boost
+oreo-shake  ->  Oreo Shake
+chocolate-shake  ->  Chocolate Shake
+combo-1  ->  Combo 1
+combo-2  ->  Combo 2
+combo-3  ->  Combo 3
+combo-4  ->  Combo 4
+combo-5  ->  Combo 5
